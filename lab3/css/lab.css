@@ -5,7 +5,9 @@
     background-color: #DDD8C4;
   }
 body {
-    font-family: 'Bakbak One';font-size: 22px; color: #3c5233;
+    font-family: 'Bakbak One';
+    font-size: 22px; 
+    color: #3c5233;
     background-color: #FEFAE0;
 }
 .minor-section p {
